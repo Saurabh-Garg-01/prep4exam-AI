@@ -20,7 +20,7 @@ AI-powered study assistant that turns raw notes into clear explanations, quizzes
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Saurabhvch12003/prep4exam.git
+   git clone https://github.com/Saurabh-Garg-01/prep4exam-AI.git
    cd prep4exam
 
 2. Install dependencies:
